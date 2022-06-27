@@ -1,0 +1,15 @@
+{
+  "name": "typedhttpapi-tutorial-todoapp",
+  "version": "1.0.0",
+  "main": "./dist/server/index.js",
+  "repository": "https://github.com/AsPulse/TypedHttpAPI-Tutorial-TodoApp.git",
+  "author": "aspulse <aspulse.x@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "esbuild": "^0.14.47",
+    "fastify": "^4.1.0",
+    "runtypes": "^6.5.1",
+    "ts-node": "^10.8.1",
+    "typed-http-api": "^1.0.1"
+  }
+}
